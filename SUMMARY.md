@@ -14,3 +14,7 @@
 
 * [Scrum 基本知識](scrum-zhu-ti/scrum-ji-ben-zhi-shi.md)
 
+## 程式練習題
+
+* [前言](cheng-shi-lian-xi-ti/qian-yan.md)
+
