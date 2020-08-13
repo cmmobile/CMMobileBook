@@ -17,4 +17,6 @@
 ## 程式練習題
 
 * [前言](cheng-shi-lian-xi-ti/qian-yan.md)
+* [數字操作](cheng-shi-lian-xi-ti/shu-zi-cao-zuo/README.md)
+  * [1. Two Sum](cheng-shi-lian-xi-ti/shu-zi-cao-zuo/1.-two-sum.md)
 
