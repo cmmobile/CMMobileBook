@@ -18,8 +18,8 @@
 
 * [前言](cheng-shi-lian-xi-ti/qian-yan.md)
 * [Foundation 程式練習](cheng-shi-lian-xi-ti/shu-zi-cao-zuo/README.md)
-  * [Peak Index in a Mountain Array](cheng-shi-lian-xi-ti/shu-zi-cao-zuo/peak-index-in-a-mountain-array.md)
   * [Two Sum](cheng-shi-lian-xi-ti/shu-zi-cao-zuo/1.-two-sum.md)
   * [To lower case](cheng-shi-lian-xi-ti/shu-zi-cao-zuo/2.-to-lower-case.md)
+  * [Peak Index in a Mountain Array](cheng-shi-lian-xi-ti/shu-zi-cao-zuo/peak-index-in-a-mountain-array.md)
   * [合法回文-1 Valid Palindrome](cheng-shi-lian-xi-ti/shu-zi-cao-zuo/he-fa-hui-wen-1-valid-palindrome.md)
 
