@@ -25,4 +25,5 @@
 * [條件邏輯練習](cheng-shi-lian-xi-ti/tiao-jian-luo-ji-lian-xi/README.md)
   * [FizzBuzz](cheng-shi-lian-xi-ti/tiao-jian-luo-ji-lian-xi/fizzbuzz.md)
   * [Single Number](cheng-shi-lian-xi-ti/tiao-jian-luo-ji-lian-xi/single-number.md)
+  * [Self Dividing Number](cheng-shi-lian-xi-ti/tiao-jian-luo-ji-lian-xi/self-dividing-number.md)
 
