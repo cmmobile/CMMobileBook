@@ -24,4 +24,5 @@
   * [合法回文-1 Valid Palindrome](cheng-shi-lian-xi-ti/shu-zi-cao-zuo/he-fa-hui-wen-1-valid-palindrome.md)
 * [條件邏輯練習](cheng-shi-lian-xi-ti/tiao-jian-luo-ji-lian-xi/README.md)
   * [FizzBuzz](cheng-shi-lian-xi-ti/tiao-jian-luo-ji-lian-xi/fizzbuzz.md)
+  * [Single Number](cheng-shi-lian-xi-ti/tiao-jian-luo-ji-lian-xi/single-number.md)
 
