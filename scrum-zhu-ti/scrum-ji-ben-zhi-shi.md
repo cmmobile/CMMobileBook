@@ -3,7 +3,11 @@
 ## 什麼是Scrum?
 
 * Scrum是敏捷開發方法\(Agile\)的其中之一種方法
-* 重點是快速疊代、快速回饋
+* 重點是"快速疊代"、"快速回饋"
+
+## Waterfall vs Agile 
+
+![](../.gitbook/assets/agile.png)
 
 ## 如何執行Scrum?
 
