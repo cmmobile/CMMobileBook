@@ -2,17 +2,15 @@
 description: 一個好的Commit Message，可以幫助審核和增加程式碼的可維護性。
 ---
 
-# Commit Message
+# Commit Message 規則
 
 ## 什麼是Commit Message?
 
 Commit Message為推送紀錄的訊息，請務必確實填寫每次程式的更動項目。
 
-## Commit Message的風格
+## Conventional Commits\(常規Commit守則\)\([Link](https://www.conventionalcommits.org/en/v1.0.0/)\) <a id="conventional-commits-100"></a>
 
-目前 Android 與 iOS Team 皆為 Angular 風格。
-
-## Angular 風格 \([Link](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#-commit-message-guidelines)\)
+## Commit Message Style\(Angular風格\)\([Link](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#-commit-message-guidelines)\)
 
 ```text
 type(scope): subject
