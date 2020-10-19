@@ -18,10 +18,15 @@ Git Flow有主要的分支有 Master、Develop、Hotfix、Release 以及 Feature
 
 1. 建立master\(順便付Gitignore檔\) &lt; ---- 會幫你們弄
 2. 建立branch，並命名為"develop" &lt; ---- 會幫你們弄
-3. 切換到"develop"建立branch，並命名為"feature/工作項目"，例如：feature/login
-4. 開始建立專案或是修改程式碼等等
-5. 一旦有小功能完成，請立即Commit並Push，請不要一大包功能上傳!!!
-6. 一旦feature完成，例如登入頁完成，請切換回deveplop並發動Merge From Fetched，再發動Push才算完成
-7. 然後重複3~7的工作項目
-8. 最後完成功能才可以發Merge Requests &lt; ---- 完成Training再教
+3. 利用 SourceTree &gt; Repository &gt; Git flow &gt; Initialize Repository，來初始化
+4. 利用 SourceTree &gt; Repository &gt; Git flow &gt; Start New Feature，開新的feature分支
+5. 在新的feature分支，開始建立專案或是修改程式碼等等
+6. 一旦有小功能完成，請立即Commit並Push，請不要一大包功能上傳!!!
+7. 一旦feature完成，例如登入頁完成，利用 SourceTree &gt; Repository &gt; Git flow &gt; Finish Feature，合併回develop，再發動Push才算完成
+8. 然後重複3~7的工作項目
+9. 最後完成功能才可以發Merge Requests &lt; ---- 完成Training再教
+
+![](../.gitbook/assets/gitflow1.png)
+
+![](../.gitbook/assets/gitflow2.png)
 
