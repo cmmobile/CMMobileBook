@@ -31,9 +31,22 @@ Scrum 三個主要元素
   * Daily meeting: 每日會議\(10min\)
   * Review meeting: 回饋會議\(1~2hr\)
 * 產出物（artifacts）
-  * UserStory: 有記錄需求與驗收項目\(藍單\)
+  * Epic、Feature、UserStory: 有記錄需求與驗收項目\(藍單\) 
   * Task: 工作項目\(黃單\)
   * Burndown chart: 燃盡圖
+
+![http://teddy-chen-tw.blogspot.com/2013/10/blog-post\_2.html](../.gitbook/assets/image.png)
+
+## 提倡精神
+
+* 為什麼要跑敏捷？
+  * 程式的素養 -&gt; Building the thing right 做出好的產品\(重點：速度和品質\)
+  * 敏捷的素養 -&gt; Building the right thing 做出正確的產品\(重點：方向\)
+* Scrum Teams 是跨職能（cross-functional）
+* 沒有絕對的規則 =&gt; 每個團隊適合的規則不同
+* 沒有絕對的產品 =&gt; 用戶才是根本
+* 多多用團隊的力量解決問題
+* Agile 的本質是"替用戶解決真正問題"，精神還是老話一句 "快速疊代"、"快速回饋"
 
 ## 使用TFS工具幫助我們跑Scrum
 
