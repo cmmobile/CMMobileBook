@@ -33,9 +33,9 @@ Scrum 三個主要元素
   * Daily meeting: 每日會議(10min)
   * Review meeting: 回饋會議(1\~2hr)
 * 產出物（artifacts）
-  * Epic、Feature、UserStory: 有記錄需求與驗收項目(藍單)&#x20;
-  * Task: 工作項目(黃單)
-  * Burndown chart: 燃盡圖
+  * Epic、Feature、UserStory: 由大到小記錄需求與驗收項目&#x20;
+  * Task: 工作項目(包含估時)
+  * Burn down chart: 燃盡圖
 
 ![http://teddy-chen-tw.blogspot.com/2013/10/blog-post\_2.html](../.gitbook/assets/image.png)
 
